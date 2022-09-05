@@ -32,3 +32,5 @@ pot_tilemm
 pot_nsed
 pot_volxmm
 pot_volmm
+
+Please cite : Qi, J., Li, S., Li, Q., Xing, Z., Bourque, C.P.A. and Meng, F.R., 2016. A new soil-temperature module for SWAT application in regions with seasonal snow cover. Journal of Hydrology, 538, pp.863-877.
